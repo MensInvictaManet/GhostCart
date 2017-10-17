@@ -1,0 +1,27 @@
+  SetLights(x - 7, y - 7, 14, Color54); // START ROW -7
+  SetLights(x - 7, y - 6, 14, Color54); // START ROW -6
+  SetLights(x - 7, y - 5, 2, Color54); // START ROW -5
+  SetLights(x + 5, y - 5, 2, Color54);
+  SetLights(x - 7, y - 4, 2, Color54); // START ROW -4
+  SetLights(x + 5, y - 4, 2, Color54);
+  SetLights(x - 7, y - 3, 2, Color54); // START ROW -3
+  SetLights(x + 5, y - 3, 2, Color54);
+  SetLights(x - 7, y - 2, 2, Color54); // START ROW -2
+  SetLights(x + 5, y - 2, 2, Color54);
+  SetLights(x - 7, y - 1, 2, Color54); // START ROW -1
+  SetLights(x + 5, y - 1, 2, Color54);
+  SetLights(x - 7, y + 0, 2, Color54); // START ROW +0
+  SetLights(x + 5, y + 0, 2, Color54);
+  SetLights(x - 7, y + 1, 2, Color54); // START ROW +1
+  SetLights(x + 5, y + 1, 2, Color54);
+  SetLights(x - 7, y + 2, 2, Color54); // START ROW +2
+  SetLights(x + 5, y + 2, 2, Color54);
+  SetLights(x - 7, y + 3, 2, Color54); // START ROW +3
+  SetLights(x + 5, y + 3, 2, Color54);
+  SetLights(x - 7, y + 4, 2, Color54); // START ROW +4
+  SetLights(x + 5, y + 4, 2, Color54);
+  SetLights(x - 7, y + 5, 14, Color54); // START ROW +5
+  SetLights(x - 7, y + 6, 14, Color54); // START ROW +6
+
+
+1
